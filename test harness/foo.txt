@@ -1,0 +1,10 @@
+abcd 
+abcdef 
+fghij
+klmn
+klmnopqr
+qrst
+uvwxyzab
+stuvwxyz
+efg
+hijk
